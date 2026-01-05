@@ -39,7 +39,7 @@
 
 ---
 
-## 🚀 Installation & Usage
+## Installation & Usage
 
 ### 1. Build the project
 Compile the game using the `Makefile`:
