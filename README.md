@@ -45,6 +45,8 @@
 Compile the game using the `Makefile`:
 ```bash
 make
+#Or
+make bonus
 ```
 ### 2. Run the game
 Execute the program by providing a map file from the maps folder:
